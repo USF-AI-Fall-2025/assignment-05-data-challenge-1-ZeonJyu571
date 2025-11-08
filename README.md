@@ -76,6 +76,7 @@
       Did Not Experience Homelessness in K-12       836
       Name: count, dtype: int64
 
+<img width="580" height="303" alt="image" src="https://github.com/user-attachments/assets/c920376e-053a-438b-b9de-6c76c8f13901" />
 
 
 
