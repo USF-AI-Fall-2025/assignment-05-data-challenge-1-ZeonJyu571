@@ -363,6 +363,8 @@ array(['Race', 'Homeless Status', 'All', 'Foster Status', 'Gender'],
 array(["Bachelor's Degree - Did Not Transfer", 'Associate Degree',
        'Community College Certificate', "Bachelor's Degree - Transferred"],
       dtype=object)
+
+   (2) Range of values of the numeric columns and whether they are normally distributed:
    
 
 
