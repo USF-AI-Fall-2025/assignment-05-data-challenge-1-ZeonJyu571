@@ -1,5 +1,5 @@
 # x62-data-challenge-student-pathways
-
+"""
 1. Data quality: For each feature (column), what is the data type? Is there any missing data?
 
    Please refer to the follwing sheet for data type of each column. There are 2745 entries of DISTRICT_CODE missing.
@@ -23,5 +23,5 @@
   dtypes: float64(5), object(6)
   memory usage: 1.7+ MB
 
-2. 
+"""
 
