@@ -366,10 +366,13 @@ array(["Bachelor's Degree - Did Not Transfer", 'Associate Degree',
 
    (2) Range of values of the numeric columns and whether they are normally distributed:
    
+      WAGE_YEAR1: range of values is 97993, not normally distributed.
+      WAGE_YEAR2: range of values is 132847, not normally distributed.
+      WAGE_YEAR3: range of values is 146728, not normally distributed.
+      WAGE_YEAR4: range of values is 153910, not normally distributed.
 
+3. Semantics: What is the meaning of the columns? Are any columns related to other columns? (If so, how?)
 
-
-   (2) Range of values of the numeric columns:
-
+   
    
 
