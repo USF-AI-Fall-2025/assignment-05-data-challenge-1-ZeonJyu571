@@ -373,6 +373,8 @@ array(["Bachelor's Degree - Did Not Transfer", 'Associate Degree',
 
 3. Semantics: What is the meaning of the columns? Are any columns related to other columns? (If so, how?)
 
-   
+   The wages of all four years are positively correlated to each other.
+
+
    
 
