@@ -26,6 +26,7 @@
 2. Range: What are the unique values for each categorical column? What is the range of values of the numeric columns? Are the numeric column    values normally distributed?
    
    (1) Unique values for each caegorical column:
+   
       DISTRICT_TYPE
 array(['School District', 'Legislative District', 'All'], dtype=object)
    
@@ -37,6 +38,10 @@ array(['Duarte Unified', 'Coronado Unified', 'Gilroy Unified',
       dtype=object)
 
       DISTRICT_CODE
+   There are 571 unique values, below are 6 examples of them:
+   array([1964469., 3768031., 4369484., 5672553.,
+         ......
+          3667710., 3667843.])
    
 
       ACADEMIC_YEAR
@@ -73,12 +78,20 @@ array(["Bachelor's Degree - Did Not Transfer", 'Associate Degree',
 
 4. Semantics: What is the meaning of the columns? Are any columns related to other columns? (If so, how?)
 
+   The variables DISTRICT_TYPE, DISTRICT_NAME, DISTRICT_CODE, ACADEMIC_YEAR, and WAGE_YEAR simply mean what their name suggest. The variable of DEMO_CATEGORY is a list of demographic variables, its value means which demographic variable is used to measure the student, and STUDENT_POPULATION shows the corresponding value of the demographic variable in question. AWARD_CATEGORY presents the degree the student achieved, however, for bachelor's degree, it provided extra information on whether they were transferred student.
+
    The wages of all four years are positively correlated to each other.
    
    <img width="649" height="157" alt="image" src="https://github.com/user-attachments/assets/45861cfc-63db-41f0-83c0-ccd41d079b64" />
 
 4.1 Which demographic shows the highest WAGE_YEAR3? Which demographic shows the lowest WAGE_YEAR3? 
 
+      <img width="607" height="558" alt="image" src="https://github.com/user-attachments/assets/c82d2cf9-80f8-43e9-898c-5b90115b0bb2" />
+
+      For foster status, "Not Foster Youth" has the highest WAGE_YEAR3, "Foster Youth" the lowest;
+      For Gender, "Male" has the highest WAGE_YEAR3, "Female" the lowest;
+      For Homeless Status, "Did Not Experience Homelessness in K-12" has the highest WAGE_YEAR3, "Experienced Homelessness in K-12" the lowest;
+      For Race, "White" has the highest WAGE_YEAR3, "None Reported" the lowest.
 
    
 
