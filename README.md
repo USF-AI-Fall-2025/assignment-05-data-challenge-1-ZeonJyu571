@@ -76,7 +76,7 @@ array(["Bachelor's Degree - Did Not Transfer", 'Associate Degree',
       <img width="602" height="443" alt="image" src="https://github.com/user-attachments/assets/4b89c0b2-2952-4a85-ad05-e51c0f88db92" />
 
 
-4. Semantics: What is the meaning of the columns? Are any columns related to other columns? (If so, how?)
+3. Semantics: What is the meaning of the columns? Are any columns related to other columns? (If so, how?)
 
    The variables DISTRICT_TYPE, DISTRICT_NAME, DISTRICT_CODE, ACADEMIC_YEAR, and WAGE_YEAR simply mean what their names suggest. The variable of DEMO_CATEGORY is a list of demographic variables, its value means which demographic variable is used to measure the student, and STUDENT_POPULATION shows the corresponding value of the demographic variable in question. AWARD_CATEGORY presents the degree the student achieved, however, for bachelor's degree, it provided extra information on whether they were transferred student.
 
