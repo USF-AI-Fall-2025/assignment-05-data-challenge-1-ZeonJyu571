@@ -97,9 +97,9 @@ array(["Bachelor's Degree - Did Not Transfer", 'Associate Degree',
 
 4.2 & 4.3 Are there any people with negative/positive wage trends? Describe these people by their demographics.
 
-      <img width="727" height="677" alt="image" src="https://github.com/user-attachments/assets/aecdf046-ae03-4e63-8c2f-c880607ac2a4" />
+      <img width="722" height="778" alt="image" src="https://github.com/user-attachments/assets/f59396ca-480a-4a1c-baad-01cd9ef5d484" />
             
-      Every group demonstrates a positive wage trend.
+      Every group demonstrates a positive wage trend，however, with very different rates. When race is considered, whites have the steepest increase rate in wages while the native American suffer from the slowest rise. Foster youth, students who experienced homelessness in K-12 also find themselves in significantly un favourable circumstance. While Male has a faster growth in wages than the Female, the difference is not as distinguished.
 
 
 
