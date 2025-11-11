@@ -97,9 +97,11 @@ array(["Bachelor's Degree - Did Not Transfer", 'Associate Degree',
 
 4.2 & 4.3 Are there any people with negative/positive wage trends? Describe these people by their demographics.
 
+      <img width="727" height="677" alt="image" src="https://github.com/user-attachments/assets/aecdf046-ae03-4e63-8c2f-c880607ac2a4" />
+            
       Every group demonstrates a positive wage trend.
 
-      <img width="727" height="677" alt="image" src="https://github.com/user-attachments/assets/aecdf046-ae03-4e63-8c2f-c880607ac2a4" />
+
 
 
       
